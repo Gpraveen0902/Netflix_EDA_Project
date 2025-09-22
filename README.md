@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows: Exploratory Data Analysis
 
-### [View the full analysis in the Jupyter Notebook](https://colab.research.google.com/github/YourUsername/Netflix-EDA-Project/blob/main/Netflix_EDA_Project.ipynb)
+### [View the full analysis in the Jupyter Notebook](https://colab.research.google.com/github/Gpraveen0902/Netflix_EDA_Project/blob/main/Netflix_EDA_Project.ipynb)
 
 ---
 
